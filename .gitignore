@@ -1,0 +1,13 @@
+#Configuracion global
+*.pyc
+*.pyi
+-*
+*.swap
+*.exe
+
+#configuracion del IDE
+.idea
+
+#configuracion del proyecto
+
+
